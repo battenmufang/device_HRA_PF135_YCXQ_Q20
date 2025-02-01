@@ -1,2 +1,10 @@
-# device_HRA_PF135_YCXQ_Q20
-为华瑞安代工的洋葱星球远航3构建的基于BOOT的设备树
+# Android device tree for qti S2 (trinket)
+
+```
+#
+# Copyright (C) 2025 The Android Open Source Project
+# Copyright (C) 2025 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
