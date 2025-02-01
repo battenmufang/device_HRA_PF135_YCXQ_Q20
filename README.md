@@ -9,5 +9,5 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
-设备分支代号如下：（我自己也奇怪，一个MTK设备居然设备树写着高通，可能是OEM厂家的问题？待解决
+#设备分支代号如下：（我自己也奇怪，一个MTK设备居然设备树写着高通，可能是OEM厂家的问题？待解决
 device/qualcomm/trinket
