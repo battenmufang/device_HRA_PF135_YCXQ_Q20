@@ -7,6 +7,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),trinket)
+ifeq ($(TARGET_DEVICE),tb8788p1_64_bsp)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 endif

@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_trinket-user
-add_lunch_combo omni_trinket-userdebug
-add_lunch_combo omni_trinket-eng
+add_lunch_combo omni_tb8788p1_64_bsp-user
+add_lunch_combo omni_tb8788p1_64_bsp-userdebug
+add_lunch_combo omni_tb8788p1_64_bsp-eng

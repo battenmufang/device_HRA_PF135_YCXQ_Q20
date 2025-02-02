@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_trinket.mk
+    $(LOCAL_DIR)/omni_tb8788p1_64_bsp.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_trinket-user \
-    omni_trinket-userdebug \
-    omni_trinket-eng
+    omni_tb8788p1_64_bsp-user \
+    omni_tb8788p1_64_bsp-userdebug \
+    omni_tb8788p1_64_bsp-eng

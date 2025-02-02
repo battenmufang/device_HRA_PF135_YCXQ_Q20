@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/qualcomm/trinket
+LOCAL_PATH := device/alps/tb8788p1_64_bsp
 # A/B
 AB_OTA_POSTINSTALL_CONFIG += \
     RUN_POSTINSTALL_system=true \
@@ -19,10 +19,10 @@ PRODUCT_PACKAGES += \
     android.hardware.boot@1.0-service
 
 PRODUCT_PACKAGES += \
-    bootctrl.trinket
+    bootctrl.mt6771
 
 PRODUCT_STATIC_BOOT_CONTROL_HAL := \
-    bootctrl.trinket \
+    bootctrl.mt6771 \
     libgptutils \
     libz \
     libcutils

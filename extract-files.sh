@@ -8,8 +8,8 @@
 
 set -e
 
-DEVICE=trinket
-VENDOR=qualcomm
+DEVICE=tb8788p1_64_bsp
+VENDOR=alps
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
